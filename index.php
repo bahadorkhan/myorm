@@ -1,4 +1,4 @@
-My ORM
+<?php 
 namespace Bahador;
 require_once("models\Test.php");
 
@@ -24,3 +24,5 @@ print_r($test
 			echo "faild";
 		*/
 		/*$test->deleteById(9);*/
+		
+?>
